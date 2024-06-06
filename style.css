@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(167, 167, 167);
+}
+section
+{
+    margin: 200px;
+    border-radius: 5%;
+    background-color: rgb(102, 102, 102);
+    text-align: center;
+    padding: 40px;
+}
+input
+{
+  border-radius: 70%;
+}
